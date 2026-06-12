@@ -106,7 +106,7 @@ Fatiga-sEMG/
 
 ## Requisitos y dependencias
 
-- **Python 3.9 o superior** (probado en 3.12 / 3.14).
+- **Python 3.9 o superior**.
 - Paquetes (en `requirements.txt`):
 
 | Paquete | Uso |
@@ -248,11 +248,11 @@ Además imprime en la terminal la tabla de resultados (pendiente y R² por sujet
 
 ## Equipo
 
-| Integrante |
-|---|
-| Carlos Andrés Avendaño Díaz |
-| Cristóbal Jesús Colina Crisanto |
-| Alejandro de Jesús Ríos Ordaz |
-| Maximiliano Sánchez Solano |
+| Integrante | Matricula |
+|---|---|
+| Carlos Andrés Avendaño Díaz | S22013435 |
+| Cristobal Jesus Colina Crisanto | S22013482 |
+| Alejandro de Jesus Rios Ordaz | S22013468 |
+| José Maximiliano Sánchez Solano | S22013474 |
 
 **Académico:** Dr. Ismael Kelly Pérez · **Institución:** Universidad Veracruzana, Facultad de Ingeniería — Ingeniería Biomédica

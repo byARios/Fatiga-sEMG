@@ -255,4 +255,4 @@ Además imprime en la terminal la tabla de resultados (pendiente y R² por sujet
 | Alejandro de Jesus Rios Ordaz | S22013468 |
 | José Maximiliano Sánchez Solano | S22013474 |
 
-**Académico:** Dr. Ismael Kelly Pérez · **Institución:** Universidad Veracruzana, Facultad de Ingeniería — Ingeniería Biomédica
+**Académico:** Dr. Ismael Kelly Pérez · **Institución:** Universidad Veracruzana, Facultad de Instrumentación Electrónica — Ingeniería Biomédica
